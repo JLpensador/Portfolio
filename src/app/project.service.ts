@@ -66,7 +66,7 @@ export class ProjectService {
         image: 'MA.gif',
         description:
           'Oferecer a comunidade escolar oportunidades para uma qualificação profissional gratuita de excelência em troca de experiências nas áreas da tecnológica',
-        link: 'jlpensador.github.io/MA_Solucoes/',
+        link: 'https://jlpensador.github.io/MA_Solucoes/',
       },
 
       {
@@ -114,7 +114,7 @@ export class ProjectService {
         image: 'pomodoro.gif',
         description:
           'Este é um projeto de Pomodoro Timer desenvolvido com Angular. O Pomodoro Timer é uma técnica de gerenciamento de tempo que utiliza blocos de trabalho seguidos de pausas curtas.',
-        link: 'pomodoro-timer-one-swart.vercel.app',
+        link: 'https://pomodoro-timer-one-swart.vercel.app',
       },
 
       {
@@ -130,15 +130,15 @@ export class ProjectService {
         image: 'quarto.gif',
         description:
           'Um quarto 3D onde você pode mexer a sua tela para poder movimenta-lo e ver de outros ângulos. Feito com Html, Css e Javascript.',
-        link: 'jlpensador.github.io/Quarto_3D/',
+        link: 'https://jlpensador.github.io/Quarto_3D/',
       },
 
       {
-        name: 'Organizador de Arquivos',
-        image: 'organizadorArquivos.png',
-        description:
-          'Um programa de automação desenvolvido em Python, criado para organizar arquivos de diferentes naturezas, oferecendo uma solução eficiente para a gestão e ordenação de dados em sistemas computacionais. Esse programa identifica automaticamente o tipo de arquivo (como documentos, imagens, vídeos, etc.) e os organiza em pastas específicas.',
-        link: 'https://github.com/JLpensador/Organizador_de_Arquivos',
+        name: 'SonicFetch',
+        image: 'sonicfetch.png',
+        description: `Uma personalização completa do Fastfetch, com tema inspirado no Sonic the Hedgehog.
+Inclui ícones coloridos, divisórias ASCII e exibição organizada das informações do sistema Linux.`,
+        link: 'https://github.com/JLpensador/Sonicfetch',
       },
 
       {

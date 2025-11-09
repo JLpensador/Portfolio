@@ -29,7 +29,7 @@ Sou João Luiz Borges Morais, Técnico em Desenvolvimento de Sistemas e graduand
 
 - Responsive design (mobile, tablet, desktop)
 
-- Deploy via Netlify
+- Deploy via Vercel
 
 ---
 
@@ -97,19 +97,6 @@ ng serve
 ```
 
 4️⃣ Acesse no navegador: http://localhost:4200
-
----
-
-## 📦 Deploy
-
-Para gerar versão de produção e fazer deploy:
-
-```bash
-ng build --prod --base-href /
-```
-Certifique-se de que o servidor ou serviço de hospedagem está configurado para servir o conteúdo a partir da raiz (/) e que a pasta browser (ou similar) não precise aparecer no caminho, conforme seu requisito.
-
-Em serviços como o Netlify, configure o diretório de publicação como dist/Portfolio (ou conforme o seu outputPath).
 
 ---
 

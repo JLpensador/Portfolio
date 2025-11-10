@@ -21,7 +21,7 @@ Sou João Luiz Borges Morais, Técnico em Desenvolvimento de Sistemas e graduand
 
 ## 🚀 Tecnologias usadas
 
-- Angular (versão X)
+- Angular
 
 - TypeScript
 
